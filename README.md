@@ -1,0 +1,1 @@
+This library allows to use bootstrap components with KJSX. It is in development.
