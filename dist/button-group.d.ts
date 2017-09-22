@@ -1,6 +1,2 @@
 import { Children } from "kjsx";
-export declare class ButtonGroup implements JSX.ElementClass {
-    props: {};
-    children: Children;
-    render(): HTMLElement;
-}
+export declare function ButtonGroup(props: {}, children: Children): HTMLElement;
