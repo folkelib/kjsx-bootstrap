@@ -11,7 +11,7 @@
   "author": "Sidoine De Wispelaere",
   "license": "MIT",
   "dependencies": {
-    "kjsx": "^1.0.2",
+    "kjsx": "^1.1.0",
     "bootstrap": "^3.3.7"
   },
   "devDependencies": {
